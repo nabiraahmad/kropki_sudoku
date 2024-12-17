@@ -2,7 +2,7 @@
 This is a Python-based solver for Kropki Sudoku puzzles, a variant of Sudoku that includes additional constraints using white and black dots:
 - A white dot between two cells indicates that the numbers are consecutive.
 - A black dot indicates that one number is double the other.
-- 
+  
 The program efficiently solves Kropki Sudoku using:
 
 1. Backtracking algorithm for assigning values.
